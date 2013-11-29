@@ -1,0 +1,18 @@
+{
+    "author": "Don Park",
+    "name": "hbs-browser",
+    "description": "hbs npm package for browsers",
+    "version": "0.4.0",
+    "homepage": "http://http://handlebarsjs.com/",
+    "licenses": [
+      {
+        "type": "MIT",
+        "url": "https://raw.github.com/donpark/hbs/master/LICENSE"
+      }
+    ],
+    "repository": {
+      "type":"git",
+      "url": "https://github.com/donpark/hbs.git"
+    },
+    "main": "hbs.js"
+}
